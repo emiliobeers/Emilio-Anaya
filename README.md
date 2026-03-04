@@ -1,6 +1,6 @@
 # Emilio-Anaya
 <h1 align="center">¡Hola! Soy Emilio Anaya 👋</h1>
-<h3 align="center">Estudiante de SMR · Aprendiendo redes, Linux y seguridad</h3>
+<h3 align="center">Estudiante de SMR · Aprendiendo en CodeArts Solutions</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Emiliobeers&label=Visitas&color=0e75b6&style=flat" alt="visitas" />
