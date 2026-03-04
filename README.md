@@ -6,10 +6,8 @@
   <img src="https://komarev.com/ghpvc/?username=Emiliobeers&label=Visitas&color=0e75b6&style=flat" alt="visitas" />
 </p>
 
-## 📊 Estadísticas
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Emiliobeers&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Emiliobeers&show_icons=true" />
 </p>
 
 ---
