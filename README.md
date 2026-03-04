@@ -11,10 +11,10 @@
 ## 🧩 Sobre mí
 
 - 📚 Estoy estudiando **SMR (Sistemas Microinformáticos y Redes)**
-- 🎯 Objetivo: hacer **ASIR** más adelante
-- 🧠 Me interesa: **[seguridad / redes / automatización / servidores]**
+- 🎯 Objetivo: hacer **ASIR** más adelante, pero me gustaría entrar en el mercado laboral.
+- 🧠 Me interesa: **[programación / redes / automatización / servidores / seguridad]**
 - ⚙️ Ahora mismo estoy aprendiendo: **[Linux / Python / Git / MySQL...]**
-- 🌱 Mi meta este año: **[tu meta]**
+- 🌱 Mi meta este año: **Encontar un trabajo online desde casa**
 
 ---
 
@@ -32,7 +32,7 @@
 
 ## 🚀 En qué estoy trabajando
 
--  📌 Cursanddo : **[Cesur SRM]**
+-  📌 Cursando : **[Cesur SRM]**
 -  🔧 Prácticas : **[Codearts Solutions]**
 
 ---
@@ -41,7 +41,7 @@
 
 - 📧 Email: **emilio.anaya.verdugo@gmail.com**
 - 💬 Discord: **EmilioBeers**
-- 🌐 Web/LinkedIn: **(https://www.linkedin.com/in/emilio-anaya-verdugo-550728290/)**
+- 🌐 Web/LinkedIn: **https://www.linkedin.com/in/emilio-anaya-verdugo-550728290**
 
 ---
 
